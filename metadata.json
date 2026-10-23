@@ -1,0 +1,7 @@
+{
+  "name": "Comanda Light",
+  "description": "Herramienta táctil y rápida para toma y gestión de comandas en restaurante sin POS ni precios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
